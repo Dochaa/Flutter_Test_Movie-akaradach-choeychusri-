@@ -12,3 +12,6 @@
 
 ## หน้า video player
 ![Screenshot 2568-05-03 at 03 08 36](https://github.com/user-attachments/assets/997480ff-5716-4a2a-8e5c-193edc26a613)
+
+## Full screen
+![Screenshot 2568-05-03 at 03 09 20](https://github.com/user-attachments/assets/bd7b8723-a95f-416d-b2b3-a361c0443cdd)
